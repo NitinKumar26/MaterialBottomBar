@@ -37,7 +37,7 @@ A lightweight Android material bottom navigation bar library
 ```
 - Add view into your layout file
 ```xml
-	<me.ibrahimsn.lib.NiceBottomBar
+	<me.nitin.lib.NiceBottomBar
 		android:id="@+id/bottomBar"
 		android:layout_width="match_parent"
 		android:layout_height="60dp"
@@ -62,7 +62,7 @@ A lightweight Android material bottom navigation bar library
 
 ## Customization
 ```xml
-	<me.ibrahimsn.lib.NiceBottomBar
+	<me.nitin.lib.NiceBottomBar
 		android:id="@+id/bottomBar"
 		android:layout_width="match_parent"
 		android:layout_height="60dp"
@@ -89,6 +89,6 @@ A lightweight Android material bottom navigation bar library
 	}
 	
 	dependencies {
-	        implementation 'com.github.ibrahimsn98:NiceBottomBar:1.3'
+	        implementation 'com.github.nitin:NiceBottomBar:1.3'
 	}
 ```
