@@ -1,4 +1,4 @@
-package me.ibrahimsn.nicebottombar
+package me.nitin.nicebottombar
 
 import org.junit.Test
 

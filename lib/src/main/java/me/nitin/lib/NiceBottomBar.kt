@@ -1,4 +1,4 @@
-package me.ibrahimsn.lib
+package me.nitin.lib
 
 import android.content.Context
 import android.graphics.Canvas
@@ -43,9 +43,9 @@ class NiceBottomBar : View {
     private val paintIndicator = Paint().apply {
         isAntiAlias = true
         style = Paint.Style.STROKE
-        strokeWidth = 10f
+        strokeWidth = 4f
         color = barIndicatorColor
-        strokeCap = Paint.Cap.ROUND
+        strokeCap = Paint.Cap.SQUARE
     }
 
     private val paintText= Paint().apply {

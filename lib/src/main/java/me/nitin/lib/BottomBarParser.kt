@@ -1,4 +1,4 @@
-package me.ibrahimsn.lib
+package me.nitin.lib
 
 import android.content.Context
 import android.content.res.XmlResourceParser

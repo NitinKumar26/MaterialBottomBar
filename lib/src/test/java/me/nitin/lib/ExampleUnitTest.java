@@ -1,4 +1,4 @@
-package me.ibrahimsn.lib;
+package me.nitin.lib;
 
 import org.junit.Test;
 

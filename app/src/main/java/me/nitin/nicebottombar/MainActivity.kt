@@ -1,9 +1,9 @@
-package me.ibrahimsn.nicebottombar
+package me.nitin.nicebottombar
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
-import me.ibrahimsn.lib.NiceBottomBar
+import me.nitin.lib.NiceBottomBar
 
 class MainActivity : AppCompatActivity() {
 
